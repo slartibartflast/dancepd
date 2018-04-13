@@ -1,0 +1,309 @@
+* Dance, difference and Power
+** Prólogo
+*** Prefacio
+*** Preludio
+** Parte 1: Foundations
+*** Capítulo 1
+**** Hacia maestros transformativos{.}: Perspectivas críticas y feministas en la educación de la  danza
+     La autora reflexiona {en|sobre} un currículum y pedagogía para la educación de la
+     danza que incorpore {concerns for issues} de poder, identidad, género y diferencias
+     culturales {...}
+**** { }
+     "La experiencia compartida colectivamente es {el origen|la fuente} del conocimiento"
+     -(Weiler 1991, 467)
+     Recuerdo esta frase en relación a una experiencia que me fue compartida por una de
+     mis estudiantes, quien trabajó como maestra substituto en un colegio {high school}
+     del área. La historia de Angie fue {algo} así: "Dra. Shapiro, jamás creerá lo que
+     pasó ayer en el colegio. Iba yo caminando hacia el salón de Economía Doméstica donde doy clases,
+     cuando vi a varios estudiantes corriendo hacia mí. Corrían en pánico{}. Vi entonces a un
+     estudiante al final del pasillo con un arma en la mano. Metí a los estudiantes al
+     salón y nos pusimos a hablar acerca de lo que habían vivido, qué estaba ocurriendo,
+     como se sentían al respecto y por qué. Recordé por qué era importante hacer ésto."
+     El reconocimiento por parte de esta estudiante de danza sobre la necesidad de abrir
+     el espacio para que los estudiantes pudieran entender, es decir, darle sentido a, sus
+     vivencias está profundamente conectado a las perspectivas pedagógicas
+     tanto críticas como feministas (Greene 1988, 120). Es a través del proceso crítico de
+     reflexión sobre las "experiencias vividas" que los estudiantes pueden interpretar las
+     relaciones sociales e individuales en las que interactúan y pueden comenzar a
+     comprender su propio poder para modificar y recrear esas relaciones, y por tanto, el
+     mundo en que viven. En lugar de sentar a sus estudiantes frente a un libro de texto,
+     Angie los instó a examinar lo que había ocurrido para así poder arrojar luz sobre los
+     procesos sociales, eventos, e ideologías que influyen un evento y nuestra percepción
+     de él (Weiler 1991, 466). La experiencia individual también es una experiencia
+     colectiva. Angie, mi estudiante, fue capaz de traducir su entendimiento de una
+     pedagogía crítica y feminista a la situación presente.
+     Vivimos en un tiempo de agitación{turmoil} educativa, epistemológica y pedagógica. A traves
+     del proceso de "problematización" (llamar la atención sobre) la autoridad, el
+     poder, la identidad, y examinando preguntas{issues} de género, clase social, raza,
+     preferencia sexual y diversidad cultural, certezas sobre la realidad y la verdad
+     están siendo desafiadas {teladejuicio?}. Una visión que valida las diferencias, niega
+     pretensiones de verdad universal, y busca empoderar a la gente para la
+     transformación social está emergiendo de este cuestionamiento del dominio
+     epistemológico de occidente en nuestras instituciones. Al centro de esta crítica
+     se halla una atención renovada hacia el cuerpo.
+     Este cambio reciente no ha pasado desapercibido en la educación de la danza. Siendo
+     una feminista blanca del sur del país que escribe y enseña las tradiciones de las
+     teorías críticas y feministas, me he visto en el proceso de desarrollar un curriculum
+     y una pedagogía para la educación de la danza, que ha surgido de mis propios
+     esfuerzos por nombrar, o problematizar, la naturaleza misma de la danza así como el
+     propósito de la danza como una experiencia educativa. Todo este trabajo ha sido
+     inspirado por Paulo Freire (1988) y otros pedagogos críticos que han llamado a
+     los pedagogos a redefinir el propósito y la práctica de la educación en todos sus
+     ámbitos{concerns}. Se demanda una educación que esté enfocada en la praxis humana -El
+     esfuerzo consciente y deliberado por recrear el mundo en uno mas justo y
+     compasivo. La noción se une a una pedagogía feminista que insiste que la educación
+     debe comenzar con las vivencias de nuestros
+     estudiantes. Como Sue Middleton (1994) lo plantea, una pedagogía feminista
+     requiere a los maestros a explorar con nuestros estudiantes nuestras biografías
+     individuales, eventos históricos y las relaciones de poder que han moldeado y
+     contenido{constrained} nuestras vidas. Partiendo de estas perspectivas críticas y feministas,
+     mi trabajo se ocupa con ciertas preguntas: Que clase de visión humana y social
+     se halla implícita en nuestro trabajo educativo? Como podemos entender a través de nuestra
+     {embodied knowledge} lo que puede significar el vivir una vida más libre y
+     empoderada? Cómo podemos redefinir la educación estética de manera que se vuelva
+     relevante a nuestros esfuerzos por una existencia más justa y amorosa? Este capítulo
+     explora estas cuestiones desde la perspectiva de mi propia experiencia al desarrollar
+     una pedagogía para la educación de la danza, K-12, en un colegio{*college} privado de artes
+     para mujeres al sur del país, donde soy la coordinadora para la certificación de
+     maestro en danza.
+**** Rompiendo el molde.
+     Permítanme comenzar con una historia. Como compartí en el prefacio, estaba sentada
+     en la oficina de uno de mis profesores de doctorado un día discutiendo sobre el
+     significado de la danza cuando me preguntó "¿Cómo piensas sobre tu cuerpo [como
+     danzante]?" Mi respuesta inmediata fue "No pienso en mi cuerpo." Despues de una breve
+     reflexión continué "Bueno, sabe, en la danza el cuerpo sólo se considera en términos
+     de la técnica, es decir, qué tan bien realiza alguien algo técnicamente." Fue hasta
+     después en mis estudios que me percaté de la verdad de lo que había dicho,
+     formulado desde mi propia experiencia de la danza. El cuerpo para un danzante era una
+     herramienta, un instrumento objetificado para el beneficio de la danza. He
+     desarrollado esta idea con mayor profundidad en Taylor [Shapiro] 1991a.
+     Lo que no comprendí al momeno de la conversación con mi profesor era la posibilidad
+     de conocer el cuerpo como un sujeto -es decir, aquello donde se aloja la memoria
+     de la vida propia, un cuerpo que define la identidad racial propia, su existencia
+     de género, sus fundamentos históricos y culturales, en efecto la materia misma de la
+     propia existencia. Este cuerpo que hube tratado como un objeto para perfeccionar
+     tanto visual como técnicamente puede ser una rica fuente de conocimiento. Como lo
+     expresa Susan Bordo, "el cuerpo es en su lugar visto como la construcción y
+     reconstrucción del mundo, constantemente cambiando de lugar, capaz de revelar nuevos
+     'puntos de vista' sin fin sobre las cosas" (1990, 144). Tomar en serio la
+     objetificación del cuerpo en la danza me condujo a reflexionar con mayor profundidad
+     sobre el propósito de la danza en la educación y el rol que juega en la sociedad.
+     Una dimensión importante de la investigación feminista es la predominancia{salience} de las
+     experiencias vividas de las mujeres. Los sujetos del estudio feminista, las ideas
+     femeninas y sus preocupaciones, se toman en serio. Los sujetos hablan con su propia
+     voz e interpretan experiencias a través de su propio conocimiento. Se conciben como
+     sujetos cognoscentes conscientes{knowing} (Thomas 1993, 75). ¿Por qué mencionamos la
+     investigación en este punto? Porque el fin de dicha metodología es el de examinar de
+     manera crítica las fuerzas sociales y culturales y los discursos de poder que
+     forman nuestro lugar en el mundo. La investigación feminista refleja las
+     intenciones del feminismo temprano de "elevar la conciencia" con el propósito de
+     entender y hacer posible el cambio. En la pedagogía se traduce como un método
+     centrado en los estudiantes donde la experiencia personal es validada y proporciona
+     un núcleo desde el cual los estudiantes pueden reflexionar con criterio sobre sus
+     experiencias en relación con el mundo en el que se ven inmersos. El segundo punto
+     principal de esta metodología es la revelación del investigador como un agente que
+     juega un papel activo en lo que se estudia. En contraste con la investigación
+     positivista, las preocupaciones y experiencias personales del investigador se toman
+     en cuenta. Es claro que mis experiencias en la danza y la educación influyen las
+     preguntas reflexivas que hago a mis estudiantes. Más aún, conozco las
+     limitaciones de mis experiencias, o como dice Sue Middleton, de mi "historia de vida"
+     (1994, 40). Este reconocimiento decómo las experiencias personales definen el
+     criterio propio está directamente relacionado con el tema de la diversidad
+     cultural. Con el descubrimiento de la voz, y {situational and relational knowing}, se
+     descubre la multiplicidad y pluralidad de la experiencia humana. Como se puede tener
+     tanto igualdad como diversidad? ¿Cómo crear una voz propia y crear una persona
+     {un yo}{a self} en medio de otros seres? ¿Cómo, pregunta Maxine Greene, "podemos crear y
+     mantener un mundo común educando para la libertad?{!}" (1988, 116). ¿Cómo puede el
+     propósito de la educación atender cuestiones de libertad humana y de un
+     mundo común?
+**** Embodiment of the knowledge
+     Nunca había cuestionado la relación que tenía con mi propio cuerpo, su objetificación
+     o la abstracción de mis propias vivencias en la danza hasta que empecé a cuestionar
+     las nociones tradicionales del cuerpo visto como objeto en la danza. Nunca
+     había considerado cómo el cuerpo se inscribe a través las relaciones de poder en la
+     manera que Michel Foucault (1993) describe (como se cita en Ramazonogle), o como
+     Sondra Fraleigh (1987) pondera, cómo se percibe el cuerpo humano en
+     la danza. A partir de estas reflexiones es que empecé a redefinir el propósito de la
+     danza partiendo de un lenguaje técnico haca uno que se ocupa {concerned} de la
+     liberación humana. Mis {guidelines} parámetros{?} surgen de mis propias expeiencias y
+     aquellas de estudiosos críticos y feministas {scholars}.
+     Resistiendo a la objetificación del cuerpo es que comencé a comprender a éste como un
+     sitio para reflexionar de manera crítica sobre la vida propia. Mi intención era
+     relacionar el vocabulario del movimiento con las experiencias de los estudiantes, ya
+     fuese en preescolar o para alumnos de universidad. {Building
+     on} el trabajo de Sue Stinson (1988), busqué maneras de conectar el curriculum del
+     movimiento con las vidas de mis estudiantes, empleando la danza como vehículo para el
+     entendimiento personal y social. Mas{Yet}, como danzante y coreografista, también
+     comprendí la importancia de nutrir los componentes imaginativos y creativos de la
+     danza. Pero aquí, a diferencia de muchos textos y discusiones artísticas que definen
+     la imaginación y la creatividad limitándola {} en términos de la habilidad artística,
+     estas capacidades humanas son {comprendidas} en un sentido más amplio. Se revelan
+     como el poder subyacente para {reenvision} y recrear el mundo en que vivimos. He
+     escrito en otros lados sobre mi desarrollo de un proceso coreográfico que atienda mis
+     {concerns} en pedagogía crítica y feminista (Shapiro y Shapiro 1995). Tales
+     perspectias pedagógicas críticas y feministas exigen que se ponga más valor {much
+     greater} en el desarrollo de capacidades imaginativas y creativas. Éstas se
+     comprenden ahora como capacidades que no se limitan al escenario, el lienzo o la
+     piedra, sino como poderes que se {liberan} en el mundo como expresiones de quiénes
+     somos y en quién queremos transformarnos. Mi creencia en el valor de la imaginación y
+     creatividad infantiles se vuelven uno de mis mayores compromisos filosóficos. Empecé
+     a comprender el poder de la danza, no como mera forma de entretenimiento, no para {}
+     el autoestima o incluso para el {auto-}desarroll, y no como una herramienta de
+     embellecimiento, sino por su capacidad para enriquecerlas capacidades críticas,
+     creativas y morales de los estudiantes. En el proceso de {hacerme} feminista, empecé
+     a desarrollar un programa para la certificación de la danza (Bartky 1990). A
+     continuación doy una breve descripción de algunas de las premisas de las filosofías
+     críticas y feministas que empleé para estructurar mi plan de estudios.
+**** Integrando el conocimiento: {self}, la danza y la educación
+     "Todo conocimiento se construye, y el conocedor es parte íntima de lo conocido"
+     (Belenky et al. 198, 137)
+     El acto de adquirir conocimiento es un {acto} apasionado. Belenky et al. (1986) escribe acerca
+     del acto de hacer consciente lo insconsciente, consultar y escucharse a uno mismo,
+     expresar lo que se calla{}, escuchar a otros, mantenerse atento a las corrientes y
+     {subcorrientes} de la vida, e imaginar lo que podría o debería ser en términos de uno
+     mismo, los otros y el mundo. Todos ellos se integran en una fuerza que {entra} en el
+     sujeto {que conoce} en unión con el objeto {conocido}. Dicha unión implica un acto de
+     responder con sensibilidad a las situaciones y al contexto de las ideas, pensamientos
+     y sensaciones. En el acto de responder también asume uno responsabilidad por las
+     opiniones propias. Una opinión es más que un ejercicio del intelecto; es un
+     compromiso, {something to live by} (149). Se implica una respuesta moral. La
+     naturaleza del acto cognitivo puede entenderse como una que {involves} el corazón y
+     el alma, situados desde el {realm} de la moral. {???}
+     En  educación feminista, la pedagogía tradicional de "entrenamiento mental" que se
+     {basa} en el conocimiento abstracto y la repetición de memoria debe ser
+     desafiada. Para impartir una pedagogía feminista el conocimiento corporal,
+     comprendido en el sentido de "memorias corporales" debe ser incluído. Las memorias
+     corporales son efectivamente aquello que aloja las experiencias de la vida; recordar
+     a mi padre es recordar la estatura y poder que presentaba cada vez que llegaba a las
+     cinco de la tarde en su traje oscuro, camisa blanca {pressed}, y corbata usto cuando
+     mi madre acababa de de ponder la mesa con la cena de la tarde, siempre coordinada
+     {justo a tiempo} para recibir su llegada y esperando su lugar a la cabeza de la mesa
+     {!}. Definir un salto es expresar la sensación corporal de modos contradictorios de
+     estar -estár plantado en el suelo y estar libre- representando nuestros deseos de
+     tener ambas cosas. Recordar el olor de la comida de caffetería es recordarme a mí
+     misma como una niña en entretamiento: llegar a tiempo, mantenerseen fila, sentarme
+     quieta, comer rápido, contenerme de hacer garabatos o irme en ensoñaciones. Estaba
+     siendo entrenada para ser una "niña buena" que sabe seguir las reglas, no hace
+     escándalo, y ve su cuerpo como algo que debe ser manejado. Vivir en, con, y a través
+     de mi cuerpo es hacerlo en relación coon imágenes objetificadas de mujeres en
+     revistas de moda, en la calle, y en nuestros televisores.
+     Nuestros cuerpos proveen un mapa de quienes somos y como hemos sido moldeados por la
+     sociedad dominante. La exploración de emociones y memorias corpóreas, como sugiere
+     Andre Lorde, puede llevarnos al análisis y a la acción (Weiler 1991, 464). Lorde
+     insiste que la {deeper} realidad de las emociones{feeling{?}} está en contacto más
+     cercano con lo que es ser humano. Cuestiona la profundidad la comprensión crítica de
+     depende de los métodos abstractos o racionales de saber. Como Freire, Lorde mantiene
+     una fe en la posibilidad de los humanos de crear nuevas formas de estar en el mundo
+     {partiendo de} nuestros desafíos colectivos y la capacidad humana de sentir(464). Las
+     mujeres necesitan examinar lo que han vivido de maneras concretas en sus propios
+     cuerpos.
+     Recuerdo un incidene reciente, cuando una educadora de danza que asistía a un curso
+     de verano que imparto, llamado "Cuerpos de saber: Narrativa del Yo" preguntó
+     retóricamente "Qué debo hacer con estos alumnos en los últimos días de clases? No
+     puedo hacerlos aprender nada, están vueltos locos {they're so wild}." Le sugerí que
+     los hiciera crear movimientos basándose en como se sentían acerca del fin de año, de
+     dejar la clase de quinto grado (10 u 11 años), y de como esta experienncia de cierre
+     también se refleja en otras experiencias "fuera del salón". Su frustración en tratar
+     de "hacerlos aprender" el currículum establecido fuera de contexto (apartado de sus
+     vidas cotidianas) suele ser la tradición en la educación y la danza. Cuando lo
+     miramos de manera crítica empezamos a entender que nuestros sistemas educativos {do
+     little} en temas de conocimiento relacional{?}, en conectar las vidas de los
+     estudiantes con el curriculum, en valorar las voces de los estudiantes, en procesar
+     un entendimiento personal y social en relación con la ideología dominante, o en
+     asistir a su desarrollo como seres humanos críticos y creativos {concerned} con
+     problemas sociales más amplios{broader}. Estas preguntas me ayudaron a formular mii
+     visión de un programa de educación de la danza que se ocupe de empoderar a los
+     estudiantes dentro de una pedagogía {liberatory}.
+**** Structuring the program: three concerns
+***** NIL
+     Al estructurar mi programa, comencé con una premisa de la danza creativa que se
+     enfoca en el niño como un creador. De mi conocimiento de las perspectivas críticas y
+     feministas, tres áreas de {concern} debían ser atendidas. La primera de estas
+     cuestiones{concerns} se ocupa de una visión para la educación de la danza. Dicha
+     visión está tomada de mis experiencias con la danza como proceso de liberación. Como
+     mujer me sentía libre, poderosa, y en control de mi propio cuerpo al danzar. Sin
+     embargo, comprendida en situaciones de la "vida real", la danza no podía hacer nada
+     para cambiar mi vida o la política del mundo en que vivía. Empecé por preguntarme
+     "¿Cómo puede la danza volverse una pedagogía liberadora?"
+***** Hacia una visión crítica para la danza
+      Tomando de la pedagogía crítica empecé a conectar el {Laban Movement Framework} (un
+      vocabulario del movimiento mandado por el Sistema Educación Pública de Carolina del
+      Norte como la base del curriculum para la educación de la danza en escuelas públicas)
+      con las experiencias de los alumnos, tanto en sentir como en acción. Entrelazando el
+      vocabulario del movimiento con sus dificultades, experiencias, miedos y sueños en el
+      mundo real, los estudiantes fueron capaces de explorarse a si mismos, a los otros, y
+      al mundo a través del movimiento.
+***** The importance of embodied knowing
+***** Educating for what purpose?
+**** Conclusiones
+*** Capítulo 2
+**** NIL
+     No recuerdo cuándo escuché por primera vez {el|la} {truism} "Lo que enseñamos es
+     quienessmos". Nuestra experiencia sociocultural compartia y nuestra experiencia
+     personal única construyen las {selves} que somos y que compartimos al
+     enseñar. Algunos teóricos educativos (Greene 1973, 1978; Pinar 1988) han notado la
+     importancia de reflexionar en cómo nuesta experiencia ha moldeado nuestras creencias
+     y por qué y cómo participamos, así como resistimos {?} {the shaping} de nuestras
+     creencias. De manera similar, algunos educadores {sic} feministas (p.ej. Grumet 1988)
+     llaman a revelar nuestra propia subjetividad en nuestro trabajo, {bringing} los
+     personal (comúnmente considerado "femenino") hacia el discurso público (a menudo
+     considerado más "masculino").
+     Es con éste espíritu que comparto mi propia historia al convertirme -y seguirlo
+     haciendo {?}- una educadora de la danza y una feminista. No creo que sea ésta mi
+     historia solamente, pues se que las fuerzas que han actuado sobre mi experiencia y mi
+     manera de pensar también han influido las de otros educadores {sic} de la danza,
+     independientemente de que hayan o no llegado a las mismas conclusiones. En otras
+     palabras, la 'yo' que de ésta mi experiencia personal es una 'yo' moldeada por
+     influencias socioculturales.
+**** Contexto personal y teórico.
+     Exceptuando un año de ballet cuando niña, comencé mis estudios de danza a la edad
+     relativamente tardía de los 16 años. Cuando entré a la universidad alternaba clases
+     de danza moderna con otras actividades áltamente físicas, principalmente como una
+     forma de liberarme{release} de las presiones académicas. Estudié danza de manera más
+     regular pero aún {avocationally} durante mis últimos dos años de universidad mientras
+     estudiaba {i pursued a major in} sociología. Abandoné mis intenciones de convertirme
+     en trabajadora social al final de mi último año. Como una mujer blanca de clase media
+     en 1968, me sentí incapaz de lograr un cambio en las áreas urbanas de los Estados
+     Unidos donde los {riots} ocurrían cada fin de semana. Decidí hacerme maestra en
+     sulugar, y lo único que amaba lo suficiente para enseñar fue la danza. Esto me llevó
+     a graduarme en danza {?!}, una cantidad modesta de presentaciones y enseñar a niños,
+     y eventualmente fui contratada para preparar maestros de danza a nivel universitario.
+     Así fue como entré a la educación de la danza movida por un sentimiento de impotencia
+     para cambiar al mundo. Cuando danzaba podía escapar el mundo temporalmente e incluso
+     sentir cierto poder personal dentro del espacio seguro del estudio. Cuando enseñe
+     danza creativa a los niños, sentía que hacía una pequeña contribución al mundo sin
+     tener que lidiar con los difíciles problemas más allá de la pequeña esquina que tenía
+     de él {el mundo}. La danza y la educación de la danza me ofrecieron un hogar seguro,
+     y nunca se me ocurrió hacer crítica de mi hogar {?}. Me habría sentido inadecuada de
+     criticarlo, aún así, porque no había alcanzado el "pináculo" de la danza {del campo}
+     -presentaciones profesionales.
+     Mucho después, durante mi doctorado en estudios culturales, comencé a reexaminar mis
+     experiencias al aprender y enseñar danza, y me percaté de otras cosas que mis
+     estudiantes podrían estar aprendiendo además del conocimiento y técnica de la danza
+     -el curriculum al que los teóricos se refieren como el "curriculum oculto." También
+     me encontré con dos preguntas formuladas por el teórico de la educación James
+     B. Macdonald (1977), las cuales presenta como las cuestiones principales de los
+     educadores: ¿Qué significa ser humano? ¿Cómo hemos de vivir juntos? Con estas
+     influencias empecé a hacer preguntas no solo sobre qué métodos pedagógicos tienen
+     mayor posibilidad de hacer buenos danzantes, sino también qué tipo de gente, el tipo
+     de arte, y el tipo de mundo que se produce en el proceso.
+     Al mismo tiempo que cuestionaba la pedagogía de la danza, también hacía preguntas
+     sobre que signfica ser una mujer en el mundo. 'La mística femenina' de Betty Friedan,
+     fue publicada en 1963; el mismo año en que decidí no hacerme trabajadora social, ella
+     fue invitada a dar una plática en la pequeña {college} de mujeres donde terminaba mi
+     carrera. Me gradué sintiendo que tenía libertades que no había tenido mi madre, mas
+     la mayor parte de mis decisiones eran tradicionalmente femeninas, incluyendo un
+     matrimonio convencional que produjo un y una hija. Aunque me tomaba mi carrera muy
+     enserio, difícilmente de podría elegir una más tradicionalmente femenina que ser una
+     maestra de danza. Mis creencias, sin embargo eran menos tradicionales que mis
+     decisiones. Siendo una suscriptora por correo de la revista Ms. y una feminista
+     auto-declarada, busqué resolver cómo ser mujer y madre, así como maestra de danza, en
+     un mundo en constante cambio. 
+*** Capítulo 3
+** Parte 2: Telling stories
+*** Capítulo 4
+*** Capítulo 5
+*** Capítulo 6
+** Parte 3: Writing new stories
+*** Capítulo 7
+*** Capítulo 8
