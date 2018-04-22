@@ -1,5 +1,3 @@
---
-
 * Dance, difference and Power
 ** Prólogo
 *** Prefacio
@@ -7,10 +5,17 @@
 ** Parte 1: Foundations
 *** Capítulo 1
 **** Hacia maestros transformativos{.}: Perspectivas críticas y feministas en la educación de la  danza
-     La autora reflexiona {en|sobre} un currículum y pedagogía para la educación de la
+     La autora reflexiona sobre un currículum y pedagogía para la educación de la
      danza que incorpore {concerns for issues} de poder, identidad, género y diferencias
-     culturales {...}
-**** { }
+     culturales. Las ideas aquí presentes surgieron de su trabajo como coordinadora del
+     programa de educación de la danza en una escuela{college} privada liberal femenina al
+     sur {de EU}. La autora entrelaza sus propiosdesafíos para hacer problemática (es
+     decir, llamar la atención sobre) la naturaleza de la danza misma así como el
+     propósito de la danza como una experiencia educativa. Al centro de esta discusión se
+     hallan los problemas de imaginación, creatividad, y una atención a las "memorias
+     corporales" que pueden llevar a las mujeres a un entendimiento más crítico de sus
+     vidas en la danza y en su cultura.
+**** NIL
      "La experiencia compartida colectivamente es {el origen|la fuente} del conocimiento"
      -(Weiler 1991, 467)
      Recuerdo esta frase en relación a una experiencia que me fue compartida por una de
@@ -71,7 +76,7 @@
 **** Rompiendo el molde.
      Permítanme comenzar con una historia. Como compartí en el prefacio, estaba sentada
      en la oficina de uno de mis profesores de doctorado un día discutiendo sobre el
-     significado de la danza cuando me preguntó "¿Cómo piensas sobre tu cuerpo [como
+      significado de la danza cuando me preguntó "¿Cómo piensas sobre tu cuerpo [como
      danzante]?" Mi respuesta inmediata fue "No pienso en mi cuerpo." Despues de una breve
      reflexión continué "Bueno, sabe, en la danza el cuerpo sólo se considera en términos
      de la técnica, es decir, qué tan bien realiza alguien algo técnicamente." Fue hasta
@@ -350,7 +355,66 @@
       relación de sus experiencias con la cultura {broader}. Los problemas de {cliques},
       competencia, violencia y machismo son ejemplos de temas relevantes con los cuales he
       desarrollado un curriculum para alumnos de quinto grado.
-***** Educating for what purpose?
+      Una educadora de danza {educatriz???} estaba tomando mi clase Teoría y Métodos de
+      Educación de Danza. Una noche en clase dijo "Oh! Esto abre todo un mundo nuevo de
+      curriculum." Las vidas de los estudiantes pasan a ser el núcleo del curriculum; el
+      contenido de estudio se transforma en vehículo para la reflexión y entendimiento
+      críticos. Sí, /es/ un mundo completo de curriculum con "justicia poética" y un acto
+      radical de amor necesario para expresa la solidaridad humana y dar vida a las
+      relaciones mutuas. Es, como Sharon Welch (1985) lo llama, "Una poética de la
+      revolución," hablando desde nuestra alma, de nuestros deseos de plenitud, mutualidad
+      y auto-trascendencia.
+      La vida es un principio, no una cosa. El cuerpo no es vida; es una manifestación de
+      la vida. Al tocar y ser tocado el cuerpo almacena memorias de conexión humana. Un
+      toque amoroso trae consigo la esperanza de sororidad{sisterhood} y fraternidad. Con
+      amor nos afirmamos y se nos afirma{?}. En la lucha sociopolítica contra la muerte
+      por hambruna, enfermedad, explotación, guerra, destrucción de la tierra, y
+      desesperanza una creciente necesidad existe por nuestra capaciad de {become
+      "body-full"} {llenar nuestro cuerpo{?}} de amor (Taylor [Shapiro] 1991b).
+      "Recuperar la importancia del cuerpo hasidouno de los logros más preciosos del
+      pensamiento radical reciente." (Eagleton 1990, 7).
+***** ¿Educar con qué propósito?
+      La tercera{/el tercer}{concern} en mi programa fue atacar la pregunta: ¿Para qué
+      enseñamos? ¿Qué clase de acción humana se halla implícita en la forma que enseñamos
+      danza a los niños pequeños? En {scholarship} de la educación crítica una distición
+      {exhaustiva{?thorough}} se da entre {schooling} y educación. En la educación la
+      cuestión de ser -o cómo uno vive en este mundo- es central. El cambio{shift} del
+      conocimiento epistemológico a un conocimiento ontológico reafirma la conección entre
+      la educación y la realidad en que uno vive. Nuevamente es la realidad que
+      experimentamos aquello que la educación debe atender y re-atender{redress{!?}}. Como
+      cambiar de ropa, la educación debe mirarse en el espejo social y reconocer la
+      relación entre nuestros valores sociales y lo que estamos enseñando. Y debe hacer
+      ésto con la noción de limpiar el closet; atendiendo a qué elegimos para reemplazar
+      {[lo viejo]}; y considerando los efectos que dicha limpieza tiene sobre nosotros,
+      los otros, y el mundo en general. En una canción {poignant} interpretada por Sweet
+      Honey in the Rock, cuestionan el consumo de ropa producida en paises del tercer
+      mundo donde niños, gente joven, y mujeres son explotadas. Nosotros también debemos
+      preguntarnos "¿Tenemos las manos limpias?"
+      Hasta ahora he tocado brevemente aspectos de la pedagogía tanto crítica como
+      feminista. Ambas comparten una creencia en la habilidad de cada persona para
+      entender y criticar{juzgar} sus propias experiencias y su realidad social, y es
+      sobre ello que cualquier proyecto de transformación social y pedagógica se
+      sienta{rests} (Weiler 1988, 23). Lo que es significativo es la creencia en la
+      capacidad de cada individuo de actuar y reaccionar ante el mundo social que
+      habita. Desde esta perspectiva, la educación es vista como praxis, como un acto
+      {emancipatory} que contesta mi tercer {concern}. Maxine Greene reitera este
+      concepto, afirmando "He estado ocupada de encontrar formas de despertar a los
+      estudiantes del letargo{submergence{??}}, despertarlos a la conciencia crítica y a
+      la posibilidad de una 'praxis' en el mundo que comparten" (1981, 303).
+      La libertad es una forma de vida -una praxis {como{?}} la posibilidad de dar sentido
+      a la vida propia a través de un proceso de establecer conexiones. La praxis, en el
+      sentido crítico, es un lazo entre las dos caras de pensar y ser -un "cimiento moral"
+      al combinar pensar y sentir en una comprensión{entendimiento} apasionada del
+      {concern} humano{human concern}. David Purpel arroja una luz {provides insight}
+      sobre los aspectos críticos, creativos y morales de la educación:
+       En efcto, la esencia de la educación puede verse como crítica, en que su
+      propósito es ayudarnos a ver, escuchar, y experimentar el mundo con mayor claridad,
+      plenitod, y entendimiento... Otro aspecto vital del proceso educativo es el
+      desarrollo de la creatividad y la imaginación, que nos permiten no sólo entender,
+      sino también construir, hacer, crear, y recrear nuestro mundo... Hablamos de una
+      visión que puede iluminar lo que estamos haciendo y lo que podemoslogar... Las
+      cuestiónes de cuál es nuestra visión y cuál debería ser son, de hecho, las preguntas
+      más cruciales y básicas con que nos enfrentamos. (1988, 26-27)
 **** Conclusiones
 *** Capítulo 2
 **** NIL
@@ -485,3 +549,4 @@
 ** Parte 3: Writing new stories
 *** Capítulo 7
 *** Capítulo 8
+ 
