@@ -3,7 +3,7 @@
 *** Prefacio
 *** Preludio
 ** Parte 1: Foundations
-*** Capítulo 1
+*** Capítulo 1 [P1]
 **** Hacia maestros transformativos{.}: Perspectivas críticas y feministas en la educación de la  danza
      La autora reflexiona sobre un currículum y pedagogía para la educación de la
      danza que incorpore {concerns for issues} de poder, identidad, género y diferencias
@@ -680,6 +680,39 @@
      mínomo de 30 horas y un máximo de 55, y pasé entre 6 y 12 horas entrevistando a cada
      individuo. Conduje las entrevistas y las observaciones de clase durante los
      festivales de dance en los veranos de 1991 a 1994.
+     Analicé los datos eligiendo, del material {raw} todas las viñetas que pudieran ser
+     asociadas con la noción del empoderamiento; luego las agrupé para {allow} que
+     emergieran diversas categorías. El proceso de análisis cruzado osciló{flowed back and
+     forth} enre los datos y la literatura. Partiendo de una vaga noción sobre el
+     significado del empoderamiento, eventualmente identifiqué formas específicas en que
+     la somática contribuyó a empoderar a las tres mujeres para transformar su pedagogía.
+**** Resultados
+     El análisis de los casos de estudio reveló que, gracias a sus experiencias con la
+     somática, las tres mujeres empezaron a (1) distanciarse del "aprendizaje de la
+     observación," (2) desarrollar una clase de técnica de danza personalizada que pudiera
+     ser aplicada a cualquier forma de danza, y (3) cuestionar su papel como maestras. A
+     pesar de que estos temas claramente convergen, discusiones separadas muestran más
+     claramente el empoderamiento que percibí en Glenna, Martha y Mary, y como la noción
+     de empoderamiento se manifestó en sus clases.
+***** Distanciamiento del aprendizaje de observación
+      Un tema que surgió del estudio cruzado tiene que ver con lo que Lortie (1975) ha
+      denominado "aprendizaje de la observación." Lortie arguye que el tiempo {spent} como
+      alumno provee a prospectos de maestros {prospective teachers} con ideas de enseñanza
+      que son difíciles de superar porque tienden a arraigarse con fuerza {become so
+      ingrained}. Estas imágenes promueven el {conservatism} {by encouraging} a los
+      maestros a seguir una manera de "pensar" y "hacer" tácitamente admitida{?}. Ya desde
+      los 1980s muchos autores han hablado{addressed} esta característica de la
+      conformidad de parte de los maestros de danza (Clarkson 1988; Gray 1990; Lord
+      1984). De acuerdo a Myers (1989), cuando a varios maestros se les preguntó la razón
+      de sus decisiones para instruir, la mayoría de ellos respondieron "la tradición, así
+      es como se hacen las cosas" (1). Glenna, Martha y Mary no siguieron esta
+      tendencia. Ellas no imitaron lo que aprendieron durante sus propios aprendizajes
+      {pl?}. El análisis de los datos mostró que para estas tres maestras, el
+      empoderamiento parte en cierta medida de una mayor conciencia crítica de sus
+      experiencias como estudiantes de danza.
+***** Trabajando por una clase de danza genérica
+***** Cuestionando el papel del maestro
+**** La influencia de la somática en la pedagogía de la danza
 ** Parte 2: Telling stories
 *** Capítulo 4
 *** Capítulo 5
